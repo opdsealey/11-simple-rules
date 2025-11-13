@@ -1,0 +1,1 @@
+This repository contains the source code for Carbide Ceilidh, a tool for managing GitHub repositories. It is written in Python and uses the GitHub API.
