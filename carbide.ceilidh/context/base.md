@@ -1,0 +1,1 @@
+All files must have a copyright notice that reads "Carbide Security All Rights Reserved 2025"
